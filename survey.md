@@ -58,3 +58,5 @@ multiple developers to the same artifacts.
 - We don't currently maintain Database source code in Git. I want to have a pilot projet for that.
 
 Thank you for participating! Don't forget to commit your changes and create a pull request.
+
+third commit
